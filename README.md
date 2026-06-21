@@ -1,10 +1,10 @@
-# 🔪 The Prime Cut | Premium Wood-Fired Steakhouse
+# The Prime Cut | Premium Wood-Fired Steakhouse
 
 An exquisite, highly interactive single-page restaurant web application built with **React** and **Vite**, featuring a luxury dark-themed visual design, custom-designed section layouts, a high-fidelity reservation system, and a unique **interactive chef's knife navigation bar**.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 ### 1. Interactive Knife Navigation
 * **Engraved Overlay Mapping:** Clickable, invisible hotspots mapped directly over the engraved section names on a high-resolution chef's knife image.
@@ -36,7 +36,7 @@ An exquisite, highly interactive single-page restaurant web application built wi
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ├── assets/                  # High-quality visual assets (Steaks, Dry-aging, Chef, Events)
@@ -59,7 +59,7 @@ An exquisite, highly interactive single-page restaurant web application built wi
 
 ---
 
-## ⚡ Getting Started
+## Getting Started
 
 Follow these instructions to set up the project locally:
 
@@ -91,7 +91,7 @@ npm run build
 
 ---
 
-## ⚙️ Navigation Customization
+## Navigation Customization
 
 The knife navigation hotspots are mapped absolute to the `.knife-img-wrap` container. The hotspot locations in `src/App.jsx` are calculated as:
 
